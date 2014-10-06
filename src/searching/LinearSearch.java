@@ -1,7 +1,7 @@
 package searching;
 
 public class LinearSearch {
-	public static void main(String arg[]) throws Exception {
+	public static void main(String arg[]) {
 		int inputArray[] = {56, -3, 32, 12, -15, 29};
 		int key = 0;
 		LinearSearch ls = new LinearSearch();
